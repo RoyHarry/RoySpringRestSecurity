@@ -26,6 +26,7 @@ public class RestController {
 	@ResponseBody
 	public List<User> list() {
 		System.out.println("hoala este es mi primer commit");
+		System.out.println("Mi segundo commit");
 		return dataService.getUserList();
 
 	}
