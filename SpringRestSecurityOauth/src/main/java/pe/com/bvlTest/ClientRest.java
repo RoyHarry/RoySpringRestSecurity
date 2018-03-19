@@ -32,7 +32,7 @@ public class ClientRest {
 		System.out.println("toke type:  "+lHashMap.get("token_type"));
 		System.out.println("refres token:  "+lHashMap.get("refresh_token"));		
 //		System.out.println("expires in: "+lHashMap.get("expires_in"));
-		
+		System.out.println("aca termina todo");
 //		System.out.println("hola response "+response);
 	}
 
